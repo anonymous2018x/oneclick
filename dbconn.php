@@ -1,0 +1,6 @@
+<?php
+    $user
+    
+    $user
+    $host
+?>
